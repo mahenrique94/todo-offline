@@ -1,0 +1,26 @@
+.Todo-Field {
+    background: transparent;
+    color: #fdfdfd;
+    border: none;
+    border-bottom: 1px solid #fdfdfd;
+    margin-right: .5rem;
+    padding: .5rem 1rem;
+    width: 70%;
+}
+.Todo-Field:focus {
+    outline: none;
+}
+
+.Todo-Btn {
+    background: #00cc99;
+    border: none;
+    color: #004d39;
+    padding: .5rem .75rem;
+}
+.Todo-Btn:focus {
+    outline: none;
+}
+.Todo-Btn:hover {
+    background: #009973;
+    cursor: pointer;
+}

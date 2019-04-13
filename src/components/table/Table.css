@@ -1,0 +1,22 @@
+.Table {
+    margin: 2rem 0;
+    width: 100%;
+}
+
+.Table-Header {
+    background: #fdfdfd;
+}
+
+.Table-Header-Column {
+    color: #595959;
+    font-weight: 300;
+    padding: .5rem;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.Table-Body-Column {
+    color: #fdfdfd;
+    padding: .5rem;
+    text-align: left;
+}
