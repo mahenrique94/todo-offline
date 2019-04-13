@@ -4,4 +4,4 @@
     publish = "./build/"
 
 [build.environment]
-    REACT_APP_API_URL: "http://another-url.com.br:8080"
+    REACT_APP_API_URL = "http://another-url.com.br:8080"
